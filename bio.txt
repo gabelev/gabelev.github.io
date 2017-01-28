@@ -1,0 +1,8 @@
+<span id="a">gabe@hal</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
+Hello there. I'm Gabe. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p></p>
+<!-- theaswermyfriendisblowinginthewindtheanswerisblowinginthewind -->
+<p>I once played <a href="https://www.theguardian.com/music/2012/feb/03/new-band-gabriel-hounds?newsfeed=true">music</a> and <a href="http://www.nytimes.com/2008/08/10/arts/music/10play.html"> more music.</a>.</p>
+<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>And now, I write <a href="https://github.com/gabelev">code</a> for a living. </p>
+<!-- howmanypathsmustamanwalkdownbeforeyoucancallhimaman -->
