@@ -1,4 +1,4 @@
-<span id="a">gabe@hal</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
+<span id="a">gabe@hal</span><span id="b"></span><span id="c">$</span> cat about.txt<br/><br/>
 Gabriel Levine  <!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 Musician turned software engineer.<br>
 <p><a href="https://www.linkedin.com/in/gabriel-levine-210ba971/" target="_blank">Linkedin</a> <br>
