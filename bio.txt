@@ -1,11 +1,8 @@
 <span id="a">gabe@hal</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
-gabriel levine  <!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
+Gabriel Levine  <!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
 Musician turned software engineer.<br>
-<!-- theaswermyfriendisblowinginthewindtheanswerisblowinginthewind -->
-<p><a href="https://www.linkedin.com/in/gabriel-levine-210ba971/">Linkedin</a> <br>
-<a href="https://www.standardimpossible.com/">Standard Impossible (ai music)</a> <br>
-<a href="https://www.everybodysay.com/">Takka Takka (music project)</a> <br>
-<a href="https://www.theguardian.com/music/2012/feb/03/new-band-gabriel-hounds?newsfeed=true">Gabriel & the Hounds (music project)</a><br>
-<a href="https://github.com/gabelev">github</a></p>
-<!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
-<!-- howmanypathsmustamanwalkdownbeforeyoucancallhimaman -->
+<p><a href="https://www.linkedin.com/in/gabriel-levine-210ba971/" target="_blank">Linkedin</a> <br>
+<a href="https://www.standardimpossible.com/" target="_blank">Standard Impossible (AI Music)</a> <br>
+<a href="https://www.everybodysay.com/" target="_blank">Takka Takka (music project)</a> <br>
+<a href="https://www.theguardian.com/music/2012/feb/03/new-band-gabriel-hounds?newsfeed=true" target="_blank">Gabriel & the Hounds (music project)</a><br>
+<a href="https://github.com/gabelev" target="_blank">github</a></p>
