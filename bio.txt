@@ -2,11 +2,10 @@
 gabriel levine:  <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>Musician turned software engineer.</p>
 <!-- theaswermyfriendisblowinginthewindtheanswerisblowinginthewind -->
-<p><b>LINKS</b></p>
-<p></p>
-<p><a href="https://www.linkedin.com/in/gabriel-levine-210ba971/">Linkedin</p></a>
-<p><a href="https://www.standardimpossible.com/">Standard Impossible (ai music)</a></p>
-<p><a href="https://www.everybodysay.com/">Takka Takka (music project)</a></p>
-<p><a href="https://www.theguardian.com/music/2012/feb/03/new-band-gabriel-hounds?newsfeed=true">Gabriel & the Hounds (music project)</a></p>
+
+<p><a href="https://www.linkedin.com/in/gabriel-levine-210ba971/">Linkedin</a> <br>
+<a href="https://www.standardimpossible.com/">Standard Impossible (ai music)</a> <br>
+<a href="https://www.everybodysay.com/">Takka Takka (music project)</a> <br>
+<a href="https://www.theguardian.com/music/2012/feb/03/new-band-gabriel-hounds?newsfeed=true">Gabriel & the Hounds (music project)</a></p>
 <!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <!-- howmanypathsmustamanwalkdownbeforeyoucancallhimaman -->
